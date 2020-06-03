@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  padding: 25px;
+  padding: 20px;
 }
 
 
@@ -21,7 +21,7 @@ body {
   height: 200px;
   width: 400px;
   display: inline-block;
-  background-color: forestgreen;
+  background-color: darkgreen;
   margin: 0 50px;
 }
 .circle-one {

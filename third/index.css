@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.box1 {
+    height: 100px;
+    width: 10vh;
+    background-color: blue;
+}
+
+.line1 {
+    height: 150px;
+    width: 100%;
+    background-color: grey;
+}
+
+
+
+.line2 {
+    height: 200px;
+    width: 100%;
+    background-color: white;
+}
+
+.para {
+    text-align: center;
+    font-size: 25px;
+    padding-top: 5px;
+}
+
+.line3 {
+    height: 150px;
+    width: 100%;
+    background-color: blue;
+}
+
+.line4 {
+    height: 150px;
+    width: 100%;
+    background-color: lightgreen;
+}
+
+.line5 {
+    height: 150px;
+    width: 100%;
+    background-color: greenyellow;
+}
+
+.line6 {
+    height: 150px;
+    width: 100%;
+    background-color: green;
+}
